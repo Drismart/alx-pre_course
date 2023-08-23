@@ -1,0 +1,6 @@
+git push > up_to-date
+
+
+exit
+pwd
+echo git push
